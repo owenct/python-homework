@@ -64,8 +64,7 @@ row_count = 0
     # @TODO: For every row in our sales data, loop over the menu records to determine a match
 
 
-        # Item,Category,Description,Price,Cost
-        # @TODO: Initialize menu data variables
+
 
 
 
